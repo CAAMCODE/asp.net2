@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desktop\\ASPNET\\ASPNET.csproj": {}
+    "C:\\Users\\Creativo\\Desktop\\asp.net\\asp.net2\\ASPNET.csproj": {}
   },
   "projects": {
-    "D:\\Desktop\\ASPNET\\ASPNET.csproj": {
+    "C:\\Users\\Creativo\\Desktop\\asp.net\\asp.net2\\ASPNET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\ASPNET\\ASPNET.csproj",
+        "projectUniqueName": "C:\\Users\\Creativo\\Desktop\\asp.net\\asp.net2\\ASPNET.csproj",
         "projectName": "ASPNET",
-        "projectPath": "D:\\Desktop\\ASPNET\\ASPNET.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\ASPNET\\obj\\",
+        "projectPath": "C:\\Users\\Creativo\\Desktop\\asp.net\\asp.net2\\ASPNET.csproj",
+        "packagesPath": "C:\\Users\\Creativo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Creativo\\Desktop\\asp.net\\asp.net2\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Creativo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
